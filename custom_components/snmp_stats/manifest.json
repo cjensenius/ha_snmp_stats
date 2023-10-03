@@ -4,7 +4,7 @@
     "documentation": "https://www.weltmeyer.net",
     "dependencies": [],
     "codeowners": ["@weltmeyer"],
-    "requirements": ["pysnmp"],
+    "requirements": ["pysnmplib"],
     "config_flow": true,
     "version": "0.1.0"
 }
